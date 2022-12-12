@@ -1,0 +1,24 @@
+.box {
+    margin: 9px;
+    height: 37px;
+    width: 65px;
+    color: white;
+    border-radius: 9px;
+    background-color: red;
+
+}
+.box1 {
+    height: 37px;
+    width: 65px;
+    color: white;
+    border-radius: 9px;
+    
+    background-color: blue;
+
+}
+.button{
+    margin: 5px;
+    height: 37px;
+    width: 85px;
+    border-radius: 9px;
+}
